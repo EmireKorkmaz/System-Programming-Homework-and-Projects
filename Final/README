@@ -1,0 +1,2 @@
+1) Log file should be created before user gives as an argument.
+2) In order to inform the user, I considered errors in the program must be written into the log file but the others are printed on the terminal. (function, system call errors etc.)
